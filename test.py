@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 from SimpleCV import *
 # Example for CAMShift Tracker
 def foo(image):
